@@ -1,0 +1,185 @@
+*
+{
+    margin:0px;
+    padding:0px;
+}
+nav{
+    background-color:rgb(34, 140, 211);
+    color:white;
+    padding:20px;
+}
+li,ul,h1{
+
+    display:inline;
+}
+ul{
+    margin-left:70%;
+}
+li{
+    margin:6px;
+}
+
+li:hover
+{
+    color: black;
+    cursor:pointer;
+}
+
+.welcome
+{
+    text-align:center;
+    margin-top:1px;
+    color:rgb(32, 126, 214)
+}
+p{  
+    margin-top:5px;
+    color:black;
+}
+.pop
+{
+    text-align:center;
+    margin-top:60px;
+    color:rgb(32, 126, 214)
+}
+.course1
+{
+    margin-left:178px;
+    margin-top:100px;
+    background-color:rgb(34, 140, 211);
+    color:white;
+    display:inline-block;
+    padding:16px;
+    width:450px;
+}
+p1{
+    color:white;
+}
+.course1:hover
+{
+    cursor:pointer;
+    color:rgb(0, 0, 0)
+}  
+.course2:hover
+{
+    cursor:pointer;
+    color:rgb(0, 0, 0)
+} 
+.course3:hover
+{
+    cursor:pointer;
+    color:rgb(0, 0, 0)
+}   
+.course4:hover
+{
+    cursor:pointer;
+    color:rgb(0, 0, 0)
+} 
+.course2
+{
+    margin-left:178px;
+    margin-top:100px;
+    background-color:rgb(34, 140, 211);
+    color:white;
+    display:inline-block;
+    padding: 16px;
+    width:450px;
+    cursor:pointer;
+}
+.course3
+{
+    margin-left:178px;
+    margin-top:100px;
+    background-color:rgb(34, 140, 211);
+    color:white;
+    display:inline-block;
+    padding:16px;
+    width:450px;
+    cursor:pointer;
+}    
+.course4
+{
+    margin-left:178px;
+    margin-top:100px;
+    background-color:rgb(34, 140, 211);
+    color:white;
+    display:inline-block;
+    padding:16px;
+    width:450px;
+    cursor:pointer;
+}
+.pro
+{
+    text-align:center;
+    margin-top:90px;
+    color:rgb(32, 126, 214)
+}
+.multi
+{
+    text-align:center;
+    margin-top:60px;
+    color:rgb(32, 126, 214)
+}
+
+.multi1
+{
+    margin-left:178px;
+    margin-top:100px;
+    background-color:rgb(34, 140, 211);
+    color:white;
+    display:inline-block;
+    padding:16px;
+    width:450px;
+}
+.multi1:hover
+{
+    cursor:pointer;
+    color:rgb(0, 0, 0)
+}  
+.multi2
+{
+    margin-left:178px;
+    margin-top:100px;
+    background-color:rgb(34, 140, 211);
+    color:white;
+    display:inline-block;
+    padding: 16px;
+    width:450px;
+    cursor:pointer;
+}
+.multi2:hover
+{
+    cursor:pointer;
+    color:rgb(0, 0, 0)
+}  
+.multi3
+{
+    margin-left:178px;
+    margin-top:100px;
+    background-color:rgb(34, 140, 211);
+    color:white;
+    display:inline-block;
+    padding: 16px;
+    width:450px;
+    cursor:pointer;
+}
+.multi3:hover
+{
+    cursor:pointer;
+    color:rgb(0, 0, 0)
+}  
+.multi4
+{
+    margin-left:178px;
+    margin-top:100px;
+    background-color:rgb(34, 140, 211);
+    color:white;
+    display:inline-block;
+    padding: 16px;
+    width:450px;
+    cursor:pointer;
+}
+.multi4:hover
+{
+    cursor:pointer;
+    color:rgb(0, 0, 0)
+} 
